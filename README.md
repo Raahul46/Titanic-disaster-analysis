@@ -2,7 +2,9 @@
   <img width="1024" height="568" src="https://github.com/Raahul46/Titanic-disaster-analysis/blob/master/Images/Titanicpaint.jpg">
 </p>
 <hr></hr>
-
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
+[![Generic badge](https://img.shields.io/badge/<ACCURACY>-<91%>-<RED>.svg)](https://shields.io/)
 # Titanic-disaster-analysis
 
 # History 
