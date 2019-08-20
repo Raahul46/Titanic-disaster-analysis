@@ -13,3 +13,22 @@ The sinking of the RMS Titanic is one of the most infamous shipwrecks in history
 
 Challenge link: https://www.kaggle.com/c/titanic/overview
 
+# WORKFLOW
+
+1. Create a python environment.
+2. Run the requirements.txt file to install all the dependencies.
+3. Make sure all the Files are in the same folders.
+4. The File "preprocess.py" is used for preprocessing the dataset.
+5. The File "model.py" has the random forest implementation.
+6. The pickle file "RF_model_final1.sav" is the saved model of the implementation.
+
+# ACCURACY 92.5%
+<hr></hr>
+<p align="center">
+  <img width="1024" height="568" src="https://github.com/Raahul46/Titanic-disaster-analysis/blob/master/Images/final.png">
+</p>
+
+# FEATURE IMPORTANCE
+<p align="center">
+  <img width="1024" height="568" src="https://github.com/Raahul46/Titanic-disaster-analysis/blob/master/Images/titanic.png">
+</p>
