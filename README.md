@@ -25,10 +25,10 @@ Challenge link: https://www.kaggle.com/c/titanic/overview
 # ACCURACY 92.5%
 <hr></hr>
 <p align="center">
-  <img width="1024" height="568" src="https://github.com/Raahul46/Titanic-disaster-analysis/blob/master/Images/final.png">
+  <img width="355" height="51" src="https://github.com/Raahul46/Titanic-disaster-analysis/blob/master/Images/final.png">
 </p>
 
 # FEATURE IMPORTANCE
 <p align="center">
-  <img width="1024" height="568" src="https://github.com/Raahul46/Titanic-disaster-analysis/blob/master/Images/titanic.png">
+  <img width="394" height="252" src="https://github.com/Raahul46/Titanic-disaster-analysis/blob/master/Images/titanic.png">
 </p>
