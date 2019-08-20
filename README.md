@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="1024" height="768" src="https://github.com/Raahul46/Titanic-disaster-analysis/blob/master/Images/Titanicpaint.jpg">
+  <img width="1024" height="568" src="https://github.com/Raahul46/Titanic-disaster-analysis/blob/master/Images/Titanicpaint.jpg">
 </p>
 
 # Titanic-disaster-analysis
